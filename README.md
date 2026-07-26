@@ -226,6 +226,7 @@ When an agent struggles, the fix is never "try harder." Identify what capability
 ## Papers & Research
 
 - [AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery](https://arxiv.org/abs/2506.13131) — DeepMind `[2025]`
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) — TIGER AI Lab `[2026]`
 - [Mutation-Guided LLM-based Test Generation at Meta](https://arxiv.org/abs/2501.12862) — Meta `[2025]`
 - [Large Sequence Models for Software Development Activities (DIDACT)](https://research.google/blog/large-sequence-models-for-software-development-activities/) — Google Research `[2023]`
 - [CodeCompose: Large-Scale Industrial Deployment of AI-assisted Code Authoring](https://huggingface.co/papers/2305.12050) — Meta `[2023]`
