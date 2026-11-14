@@ -249,6 +249,7 @@ When an agent struggles, the fix is never "try harder." Identify what capability
 - [Roast](https://shopify.engineering/introducing-roast) — Shopify's open-source structured AI workflow framework (Ruby) `[OSS]`
 - [AGENTS.md](https://agents.md/) — Community standard for agent context files `[Standard]`
 - [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk) — Build agents with multi-turn tool use (Python) `[SDK]`
+- [Althar](https://github.com/AltharIDE/althar) — Desktop ADE that turns requests into tasks, assigns coding agents, and sends their changes to another model for review. `[OSS]`
 - [LangGraph](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/) — Graph-based agent orchestration with harness engineering `[Framework]`
 - [Goose](https://github.com/block/goose) — Block's open-source coding agent (foundation of Stripe's Minions) `[OSS]`
 - [Jules](https://blog.google/technology/google-labs/jules-now-available/) — Google's async AI coding agent running in Cloud VMs `[Product]`
